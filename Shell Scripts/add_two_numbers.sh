@@ -1,3 +1,5 @@
+# Copyright @ 2024 Sumit Kumar
+
 #!/bin/bash
 
 # Prompt the user to enter the first number
