@@ -1,7 +1,5 @@
 # Shell Scripting
 
-#### Copyright @ 2024 Sumit Kumar
-
 Shell scripting involves using a variety of commands to perform tasks within a Unix-like shell environment. Here are some essential commands frequently used in shell scripting:
 
 1. ```Variables:``` Used to store data.
@@ -122,3 +120,7 @@ Shell scripting involves using a variety of commands to perform tasks within a U
     * __du:__ Estimate file and directory space usage.
 
 These are just a few of the many commands available for shell scripting. Combining these commands with conditionals, loops, and functions allows you to automate tasks and create powerful shell scripts.
+
+---
+#### Copyright @ 2024 Sumit Kumar
+---
